@@ -1,0 +1,20 @@
+[
+    {
+        "model": "iPhone 15 Pro",
+        "brand": "Apple",
+        "specs": {
+            "display": "6.1-inch Super Retina XDR",
+            "processor": "A17 Pro chip",
+            "battery": "3274 mAh"
+        }
+    },
+    {
+        "model": "Galaxy S24 Ultra",
+        "brand": "Samsung",
+        "specs": {
+            "display": "6.8-inch Dynamic AMOLED",
+            "processor": "Snapdragon 8 Gen 3",
+            "battery": "5000 mAh"
+        }
+    }
+]

@@ -1,6 +1,6 @@
 import json
 import os
-import glob
+import glob 
 
 def generate_site():
     phones = []
